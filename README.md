@@ -11,7 +11,7 @@
 
 **Installation command**
 
-`pip install opencv-python numpy gspread google-auth`
+      pip install opencv-python numpy gspread google-auth
 
 ### YOLOv3
 
