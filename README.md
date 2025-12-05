@@ -13,6 +13,10 @@
 
 `pip install opencv-python numpy gspread google-auth`
 
+### YOLOv3
+
+- Download the model from [here](https://pjreddie.com/media/files/yolov3.weights).
+
 ### Google Cloud Service Account 
 
 1. Go to [Google Cloud Console](https://console.cloud.google.com/)
